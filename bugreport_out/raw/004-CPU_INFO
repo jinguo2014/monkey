@@ -1,0 +1,39 @@
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 20 + Nice 345 + Sys 183 + Idle -120781 + IOW 2022 + IRQ 1 + SIRQ 2 = -118208
+
+  PID   TID PR CPU% S     VSS     RSS PCY UID      Thread          Proc
+31986 32006  3   0% R 2165672K  36368K  bg u0_a9    CleanupThumbsTh android.process.media
+32291 32297  4   0% R 1288360K  33932K  bg all_a173 Compiler driver /system/bin/dex2oat
+32291 32295  5   0% R 1288356K  33932K  bg all_a173 Compiler driver /system/bin/dex2oat
+32291 32291  0   0% R 1288356K  33932K  bg all_a173 main            /system/bin/dex2oat
+32291 32296  6   0% R 1288360K  33932K  bg all_a173 Compiler driver /system/bin/dex2oat
+  271   271  0   0% R      0K      0K  fg root     cfinteractive   
+32294 32294  7   0% R   6492K   3072K  fg shell    top             top
+ 9971 10054  2   0% S 2063488K 234596K  fg u0_a124  id.AlipayGphone com.eg.android.AlipayGphone
+   46    46  0   0% D      0K      0K  fg root     kworker/u17:0   
+ 9357  9357  1   0% S      0K      0K  fg root     kworker/u16:6   
+ 3481  3481  1   0% S      0K      0K  fg root     irq/215-408000. 
+21743 21792  1   0% S 1747128K  48916K  fg u0_a116  Binder_3        com.tencent.mobileqq:MSF
+    3     3  0   0% S      0K      0K  fg root     ksoftirqd/0     
+ 3498  3498  3   0% S      0K      0K  fg root     core_ctl/4      
+ 1399  2731  2   0% S 2415324K 141556K  fg system   Binder_A        system_server
+13881 13881  2   0% S      0K      0K  fg root     kworker/2:3     
+  428   765  2   0% S 140724K   8920K  fg system   EventThread     /system/bin/surfaceflinger
+  428   428  1   0% S 140724K   8920K  fg system   surfaceflinger  /system/bin/surfaceflinger
+   11    11  1   0% S      0K      0K  fg root     migration/1     
+ 2275  2275  1   0% S 1710260K  81220K  fg u0_a14   ndroid.systemui com.android.systemui
+   27    27  5   0% R      0K      0K  fg root     migration/5     
+   23    23  4   0% S      0K      0K  fg root     migration/4     
+ 1399  1491  0   0% S 2415324K 141556K  fg system   android.display system_server
+  428   561  2   0% S 140724K   8920K  fg system   DispSync        /system/bin/surfaceflinger
+  323   323  2   0% D      0K      0K  fg root     msm-core:sampli 
+29131 29150  1   0% S 1734028K  45540K  fg u0_a116  logWriteThread  com.tencent.mobileqq:TMAssistantDownloadSDKService
+ 1399  2222  2   0% S 2415324K 141556K  fg system   Binder_4        system_server
+   47    47  2   0% S      0K      0K  fg root     rpm-smd         
+   48    48  3   0% S      0K      0K  fg root     kworker/u17:1   
+   49    49  0   0% S      0K      0K  fg root     irq/47-cpr      
+[top: 1.704s elapsed]
+

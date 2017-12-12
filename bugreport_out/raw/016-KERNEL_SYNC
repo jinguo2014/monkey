@@ -1,0 +1,277 @@
+objs:
+--------------
+mdss_fb0_retire sw_sync: 1895661
+  pt signaled@129131.761291: 1895660
+  pt signaled@129131.811778: 1895661
+
+mdss_fb_0 sw_sync: 1897193
+  pt signaled@129040.035012: 1895965
+  pt signaled@129079.857933: 1896310
+  pt signaled@129131.475848: 1897190
+  pt signaled@129131.504009: 1897191
+  pt signaled@129131.504009: 1897191
+  pt signaled@129131.504010: 1897191
+  pt signaled@129131.504011: 1897191
+  pt signaled@129131.745422: 1897191
+  pt signaled@129131.774300: 1897192
+  pt signaled@129131.824737: 1897193
+
+mdss_fb_1 sw_sync: 0
+
+kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-1 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2 kgsl-timeline: 243373 queued:243373 retired:243373
+  pt signaled@129040.035011: 242712
+  pt signaled@129079.857932: 242761
+  pt signaled@129131.475847: 243371
+  pt signaled@129131.476584: 243371
+  pt signaled@129131.745422: 243371
+  pt signaled@129131.751496: 243372
+  pt signaled@129131.795655: 243372
+  pt signaled@129131.795756: 243372
+  pt signaled@129131.801690: 243373
+  pt signaled@129131.801690: 243373
+
+kgsl-3d0_surfaceflinger(428)-surfaceflinger(758)-3 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_mm-qcamera-daem(481)-mm-qcamera-daem(959)-4 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-syncsource-pid-481 oneshot
+  pt active
+
+kgsl-3d0_mm-qcamera-daem(481)-mm-qcamera-daem(956)-5 kgsl-timeline: 0 queued:6 retired:6
+
+kgsl-syncsource-pid-481 oneshot
+  pt active
+
+kgsl-3d0_mm-qcamera-daem(481)-mm-qcamera-daem(958)-8 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-syncsource-pid-481 oneshot
+  pt active
+
+kgsl-3d0_ndroid.systemui(2275)-ndroid.systemui(2990)-6 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-syncsource-pid-2275 oneshot
+  pt active
+
+kgsl-3d0_m.bbk.launcher2(2836)-m.bbk.launcher2(3147)-7 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-syncsource-pid-2836 oneshot
+  pt active
+
+kgsl-3d0_m.bbk.launcher2(2836)-m.bbk.launcher2(3243)-11 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-syncsource-pid-2836 oneshot
+  pt active
+
+kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-16 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-17 kgsl-timeline: 122865 queued:122865 retired:122865
+  pt signaled@129040.035011: 122106
+  pt signaled@129079.709879: 122282
+  pt signaled@129079.857932: 122194
+  pt signaled@129088.661176: 122757
+  pt signaled@129131.476702: 122282
+  pt signaled@129131.745422: 122863
+  pt signaled@129131.782011: 122865
+  pt signaled@129131.795757: 122864
+
+kgsl-3d0_m.android.phone(2779)-RenderThread(4804)-9 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_m.android.phone(2779)-RenderThread(4804)-10 kgsl-timeline: 2112 queued:2112 retired:2112
+
+kgsl-3d0_system_server(1399)-PowerManagerSer(1494)-20 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_system_server(1399)-PowerManagerSer(1494)-21 kgsl-timeline: 6930 queued:6930 retired:6930
+
+kgsl-3d0_m.bbk.launcher2(2836)-m.bbk.launcher2(10909)-25 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-syncsource-pid-2836 oneshot
+  pt active
+
+kgsl-3d0_putmethod.sogou(2548)-RenderThread(12669)-31 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_putmethod.sogou(2548)-RenderThread(12669)-32 kgsl-timeline: 33598 queued:33598 retired:33598
+
+kgsl-3d0_ndroid.incallui(19960)-RenderThread(20143)-34 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_ndroid.incallui(19960)-RenderThread(20143)-35 kgsl-timeline: 11629 queued:11629 retired:11629
+
+kgsl-3d0_.secime.service(28823)-RenderThread(28847)-36 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_.secime.service(28823)-RenderThread(28847)-37 kgsl-timeline: 4336 queued:4336 retired:4336
+
+kgsl-3d0_com.tencent.mm(20267)-RenderThread(24423)-12 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_com.tencent.mm(20267)-RenderThread(24423)-23 kgsl-timeline: 92738 queued:92738 retired:92738
+  pt signaled@125963.065745: 84906
+
+kgsl-3d0_.server.telecom(2752)-RenderThread(20236)-46 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_.server.telecom(2752)-RenderThread(20236)-47 kgsl-timeline: 4260 queued:4260 retired:4260
+
+kgsl-3d0_id.AlipayGphone(9971)-id.AlipayGphone(9971)-38 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_id.AlipayGphone(9971)-RenderThread(24313)-14 kgsl-timeline: 9437 queued:9437 retired:9437
+  pt signaled@127138.716586: 9121
+
+kgsl-3d0_payGphone:lite1(25223)-payGphone:lite1(25223)-26 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_id.AlipayGphone(9971)-AsyncTransferTh(25402)-27 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_ndroid.systemui(2275)-ndroid.systemui(2275)-19 kgsl-timeline: 2112 queued:0 retired:0
+  pt signaled@120202.439116: 2112
+  pt signaled@129131.476618: 2112
+
+kgsl-3d0_m.bbk.launcher2(2836)-RenderThread(3313)-13 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_m.bbk.launcher2(2836)-RenderThread(3313)-15 kgsl-timeline: 7285 queued:7285 retired:7285
+  pt signaled@129131.402348: 7284
+  pt signaled@129131.469021: 7285
+  pt signaled@129131.475848: 7282
+  pt signaled@129131.476654: 7285
+
+kgsl-3d0_o.secure:remote(25536)-RenderThread(24925)-19 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_o.secure:remote(25536)-RenderThread(24925)-22 kgsl-timeline: 2112 queued:2112 retired:2112
+
+kgsl-3d0_encent.mobileqq(24607)-ArkAppThread(31629)-39 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_encent.mobileqq(24607)-ArkAppThread(31629)-40 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_encent.mobileqq(24607)-RenderThread(8568)-33 kgsl-timeline: 4231 queued:4231 retired:4231
+
+kgsl-3d0_encent.mm:tools(12932)-encent.mm:tools(12932)-29 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_cent.mm:support(27374)-cent.mm:support(27374)-18 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_om.vivo.gallery(27466)-RenderThread(27498)-24 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_om.vivo.gallery(27466)-RenderThread(27498)-28 kgsl-timeline: 4246 queued:4246 retired:4246
+
+kgsl-3d0_com.android.mms(27809)-RenderThread(27863)-43 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_com.android.mms(27809)-RenderThread(27863)-44 kgsl-timeline: 4241 queued:4241 retired:4241
+
+kgsl-3d0_id.article.news(26813)-RenderThread(27975)-45 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_id.article.news(26813)-RenderThread(27975)-48 kgsl-timeline: 7291 queued:7291 retired:7291
+  pt signaled@128715.344098: 7266
+
+kgsl-3d0_id.article.news(26813)-AsyncTransferTh(28496)-49 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_ndroid.settings(31182)-RenderThread(31208)-41 kgsl-timeline: 0 queued:0 retired:0
+
+kgsl-3d0_ndroid.settings(31182)-RenderThread(31208)-42 kgsl-timeline: 4244 queued:4244 retired:4244
+
+fences:
+--------------
+[ffffffc0c85d3600] kgsl-syncsource-pid-481-1: active
+  kgsl-syncsource-pid-481_pt active
+
+[ffffffc0cf6db680] kgsl-syncsource-pid-481-2: active
+  kgsl-syncsource-pid-481_pt active
+
+[ffffffc0ca890e00] kgsl-syncsource-pid-481-3: active
+  kgsl-syncsource-pid-481_pt active
+
+[ffffffc0dbda0e80] kgsl-syncsource-pid-2275-1: active
+  kgsl-syncsource-pid-2275_pt active
+
+[ffffffc0d2671680] kgsl-syncsource-pid-2836-1: active
+  kgsl-syncsource-pid-2836_pt active
+
+[ffffffc08a78b200] kgsl-syncsource-pid-2836-2: active
+  kgsl-syncsource-pid-2836_pt active
+
+[ffffffc042c23f80] kgsl-syncsource-pid-2836-3: active
+  kgsl-syncsource-pid-2836_pt active
+
+[ffffffc071d8e000] kgsl-3d0-pid-2275-ctx-19-ts-211: signaled
+  kgsl-3d0_ndroid.systemui(2275)-ndroid.systemui(2275)-19_pt signaled@120202.439116: 2112 / 2112 queued:0 retired:0
+
+[ffffffc03469bc80] kgsl-3d0-pid-20267-ctx-23-ts-84: signaled
+  kgsl-3d0_com.tencent.mm(20267)-RenderThread(24423)-23_pt signaled@125963.065745: 84906 / 92738 queued:92738 retired:92738
+
+[ffffffc0ccf93800] kgsl-3d0-pid-9971-ctx-14-ts-912: signaled
+  kgsl-3d0_id.AlipayGphone(9971)-RenderThread(24313)-14_pt signaled@127138.716586: 9121 / 9437 queued:9437 retired:9437
+
+[ffffffc05c6bec00] kgsl-3d0-pid-26813-ctx-48-ts-72: signaled
+  kgsl-3d0_id.article.news(26813)-RenderThread(27975)-48_pt signaled@128715.344098: 7266 / 7291 queued:7291 retired:7291
+
+[ffffffc04eeafe80] UpSlideTransparentView:0: signaled
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129040.035011: 242712 / 243373 queued:243373 retired:243373
+  kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-17_pt signaled@129040.035011: 122106 / 122865 queued:122865 retired:122865
+  mdss_fb_0_pt signaled@129040.035012: 1895965 / 1897193
+
+[ffffffc0cfbb3480] kgsl-3d0-pid-2275-ctx-17-ts-122: signaled
+  kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-17_pt signaled@129079.709879: 122282 / 122865 queued:122865 retired:122865
+
+[ffffffc074eacf00] UpSlideTransparentView:1: signaled
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129079.857932: 242761 / 243373 queued:243373 retired:243373
+  kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-17_pt signaled@129079.857932: 122194 / 122865 queued:122865 retired:122865
+  mdss_fb_0_pt signaled@129079.857933: 1896310 / 1897193
+
+[ffffffc012332e80] kgsl-3d0-pid-2275-ctx-17-ts-122: signaled
+  kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-17_pt signaled@129088.661176: 122757 / 122865 queued:122865 retired:122865
+
+[ffffffc008189000] kgsl-3d0-pid-2836-ctx-15-ts-728: signaled
+  kgsl-3d0_m.bbk.launcher2(2836)-RenderThread(3313)-15_pt signaled@129131.402348: 7284 / 7285 queued:7285 retired:7285
+
+[ffffffc03465ba80] kgsl-3d0-pid-2836-ctx-15-ts-728: signaled
+  kgsl-3d0_m.bbk.launcher2(2836)-RenderThread(3313)-15_pt signaled@129131.469021: 7285 / 7285 queued:7285 retired:7285
+
+[ffffffc09274eb80] com.bbk.launcher2/com.bbk.la:0: signaled
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129131.475847: 243371 / 243373 queued:243373 retired:243373
+  mdss_fb_0_pt signaled@129131.475848: 1897190 / 1897193
+  kgsl-3d0_m.bbk.launcher2(2836)-RenderThread(3313)-15_pt signaled@129131.475848: 7282 / 7285 queued:7285 retired:7285
+
+[ffffffc030d01b00] FramebufferSurface:2: signaled
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129131.476584: 243371 / 243373 queued:243373 retired:243373
+  mdss_fb_0_pt signaled@129131.504009: 1897191 / 1897193
+
+[ffffffc0850e5a80] com.android.systemui.ImageWa:0: signaled
+  mdss_fb_0_pt signaled@129131.504009: 1897191 / 1897193
+  kgsl-3d0_ndroid.systemui(2275)-ndroid.systemui(2275)-19_pt signaled@129131.476618: 2112 / 2112 queued:0 retired:0
+
+[ffffffc01a0adc00] com.bbk.launcher2/com.bbk.la:1: signaled
+  mdss_fb_0_pt signaled@129131.504010: 1897191 / 1897193
+  kgsl-3d0_m.bbk.launcher2(2836)-RenderThread(3313)-15_pt signaled@129131.476654: 7285 / 7285 queued:7285 retired:7285
+
+[ffffffc0850e5380] UpSlideTransparentView:2: signaled
+  mdss_fb_0_pt signaled@129131.504011: 1897191 / 1897193
+  kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-17_pt signaled@129131.476702: 122282 / 122865 queued:122865 retired:122865
+
+[ffffffc03465b300] StatusBar:1: signaled
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129131.745422: 243371 / 243373 queued:243373 retired:243373
+  mdss_fb_0_pt signaled@129131.745422: 1897191 / 1897193
+  kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-17_pt signaled@129131.745422: 122863 / 122865 queued:122865 retired:122865
+
+[ffffffc03465b480] mdp-retire: signaled
+  mdss_fb0_retire_pt signaled@129131.761291: 1895660 / 1895661
+
+[ffffffc03465b600] FramebufferSurface:0: signaled
+  mdss_fb_0_pt signaled@129131.774300: 1897192 / 1897193
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129131.751496: 243372 / 243373 queued:243373 retired:243373
+
+[ffffffc0850e5400] kgsl-3d0-pid-2275-ctx-17-ts-122: signaled
+  kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-17_pt signaled@129131.782011: 122865 / 122865 queued:122865 retired:122865
+
+[ffffffc03465bb00] kgsl-3d0-pid-428-ctx-2-ts-24337: signaled
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129131.795655: 243372 / 243373 queued:243373 retired:243373
+
+[ffffffc030d01180] StatusBar:2: signaled
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129131.795756: 243372 / 243373 queued:243373 retired:243373
+  kgsl-3d0_ndroid.systemui(2275)-RenderThread(3355)-17_pt signaled@129131.795757: 122864 / 122865 queued:122865 retired:122865
+
+[ffffffc02b65ca00] kgsl-3d0-pid-428-ctx-2-ts-24337: signaled
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129131.801690: 243373 / 243373 queued:243373 retired:243373
+
+[ffffffc02b65c900] mdp-retire: signaled
+  mdss_fb0_retire_pt signaled@129131.811778: 1895661 / 1895661
+
+[ffffffc02b65cd00] FramebufferSurface:1: signaled
+  mdss_fb_0_pt signaled@129131.824737: 1897193 / 1897193
+  kgsl-3d0_surfaceflinger(428)-surfaceflinger(428)-2_pt signaled@129131.801690: 243373 / 243373 queued:243373 retired:243373
+
+

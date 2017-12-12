@@ -1,0 +1,5 @@
+*** exec(/system/xbin/su): Operation not permitted
+*** /system/xbin/su: Exit code 255
+[/system/xbin/su: 0.104s elapsed]
+
+
